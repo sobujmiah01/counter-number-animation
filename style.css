@@ -1,0 +1,17 @@
+.card_body{
+    background-color: #ddd;
+    width: 20%;
+
+}
+.card_body .card_inner{
+    text-align: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.card_body .card_inner .fa-shopping-cart,
+.card_body .card_inner .count,
+.card_body .card_inner .currency{
+    color: #0039f5;
+    font-weight: bold;
+    font-size: 2rem;
+}
